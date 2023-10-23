@@ -6,14 +6,16 @@ Esta documentación proporciona información sobre cómo instalar y utilizar la 
 
 ## Instalación
 
-La calculadora simple no requiere una instalación especial. Solo necesitas asegurarte de tener Python instalado en tu sistema. Puedes verificar si tienes Python instalado ejecutando el siguiente comando en tu terminal:
+La calculadora simple no requiere una instalación especial. Solo necesitas asegurarte de tener Python instalado en tu sistema. 
+Asegurate de tener instalado el sistema de contenedores docker y la herramienta de visualización de código VisualStudio
 
 [Ir a la sección **Código**](#código)
 
-```bash
-python --version
-Si Python no está instalado, puedes descargarlo desde el sitio oficial de Python: Descargar Python.
 
+Puedes verificar si tienes Python instalado ejecutando el siguiente comando en tu terminal:
+## python --version
+Si Python no está instalado, puedes descargarlo desde el sitio oficial de Python: Descargar Python.
+```bash
 Requisitos Mínimos
 Los requisitos mínimos para ejecutar la calculadora simple son:
 
