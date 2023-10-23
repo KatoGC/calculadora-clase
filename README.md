@@ -11,7 +11,6 @@ Asegurate de tener instalado el sistema de contenedores docker y la herramienta 
 
 [Ir a la sección **Código**](#código)
 
-
 Puedes verificar si tienes Python instalado ejecutando el siguiente comando en tu terminal:
 ## python --version
 Si Python no está instalado, puedes descargarlo desde el sitio oficial de Python: Descargar Python.
@@ -35,6 +34,10 @@ Una vez que hayas iniciado la calculadora, podrás realizar operaciones matemát
 
 La aplicación maneja casos de error, como la división por cero, y te proporcionará el resultado de la operación en la terminal.
 ```
+## Ejecutar la calculadora:
+Para ejecutar la calculadora abre el archivo llamado Calculadora.py y ejecuta el código en el boton de ejecutar.
+
+
 ```
 Ejemplo
 A continuación, se muestra un ejemplo de cómo se vería la ejecución de la calculadora:
